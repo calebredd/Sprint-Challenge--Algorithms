@@ -4,12 +4,17 @@
 
 a)
 
+O(n)
 
 b)
 
+O(n^2)
 
 c)
 
+O(n)
 ## Exercise II
 
+While on a floor less than f, drop eggs.
+o(n)
 
